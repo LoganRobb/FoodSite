@@ -59,4 +59,22 @@ h1{
 }
 .logo{
   margin-bottom: 20px;
+  width: 20%;
+}
+.cake{
+  width: 100%
+  height: auto;
+  max-height: 350px;
+}
+.ingredients{
+  border-color: yellow;
+}
+.banner{
+  width: 95%;
+  height: auto;
+  max-height: 300px;
+  display: block;
+  margin: 0px;
+  margin-top: 50px;
+  margin-bottom: 40px;
 }
